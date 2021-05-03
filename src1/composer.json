@@ -1,0 +1,19 @@
+{
+    "name": "baseline/packagist-test1",
+    "type": "library",
+    "description": "test",
+    "keywords": [ "php", "laravel" ],
+    "homepage": "https://baselinesoftware.co.za",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Darren Hemphill",
+            "email": "darren@baselinesoftware.co.za",
+            "homepage": "http://baselinesoftware.co.za",
+            "role": "Creator & Maintainer"
+        }
+    ],
+    "require": {
+        "laravel/framework": ">=8.0"
+    }
+}
